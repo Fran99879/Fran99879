@@ -1,23 +1,28 @@
-## 👋 Hi, I'm Francisco
+👋 Hi, I'm Francisco
 
-I'm a **Backend Developer** focused on **Node.js**, currently training to become a professional web developer.  
-I enjoy building real-world systems with clear business logic, authentication, user roles, and scalable architectures.
+Backend Developer focused on Node.js, building real-world systems with authentication, user roles and business logic.
 
-### Tech Stack
+I’m currently focused on developing scalable APIs and improving system design through hands-on projects.
+
+## Tech Stack
 - Node.js, Express.js
 - REST APIs
 - MongoDB (Mongoose), MySQL
 - JWT authentication
-- bcryptjs
 - Zod validation
 - Git & GitHub
 
-### Featured Project
-**E-commerce Backend API** with:
-- User roles (user, seller, admin)
-- Secure authentication
-- Product and order management
-- Automatic stock control
+## Featured Project
+E-commerce / Marketplace Backend API with:
+
+- Role-based access (user, seller, admin)
+- Secure authentication (JWT + bcrypt)
+- Product & order management
+- Stock control with consistency handling
 - Order status workflow
 
-I'm continuously learning and improving my backend skills through real projects.
+This project focuses on solving real problems like concurrency, data integrity and access control.
+
+---
+
+Currently working on improving the frontend integration and building a complete end-to-end application.
