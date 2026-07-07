@@ -1,28 +1,28 @@
-👋 Hi, I'm Francisco
+# Hola, soy Francisco 👋
 
-Backend Developer focused on Node.js, building real-world systems with authentication, user roles and business logic.
+**Junior Backend Developer** · Node.js · Express · TypeScript · MongoDB
 
-I’m currently focused on developing scalable APIs and improving system design through hands-on projects.
+Me interesa construir backends de verdad: autenticación, roles, reglas de negocio
+y la parte "aburrida pero importante" que mantiene los datos consistentes.
 
-## Tech Stack
-- Node.js, Express.js
-- REST APIs
-- MongoDB (Mongoose), MySQL
-- JWT authentication
-- Zod validation
-- Git & GitHub
+### 🔧 Con qué trabajo
+- **Backend:** Node.js, Express, TypeScript
+- **Bases de datos:** MongoDB (Mongoose), MySQL
+- **Auth y seguridad:** JWT + refresh tokens, bcrypt, validación con Zod, control por rol y ownership
+- **También toco:** Next.js y React (el frontend de mis proyectos full stack)
+- **Herramientas:** Git, Docker, GitHub Actions, Vitest
 
-## Featured Project
-E-commerce / Marketplace Backend API with:
+### 🚀 Proyecto destacado — Marketplace (full stack)
+Marketplace de electrónicos con una API modular en Express y un frontend en Next.js.
+- Auth con JWT + refresh tokens, roles (user/seller/admin) y validación de ownership
+- Órdenes con máquina de estados y **consistencia de stock usando transacciones de MongoDB** (evita sobreventa en compras concurrentes)
+- Integración con Mercado Pago (cada vendedor cobra en su propia cuenta)
+- 👉 [product-api](https://github.com/Fran99879/product-api) · [product-app](https://github.com/Fran99879/product-app)
 
-- Role-based access (user, seller, admin)
-- Secure authentication (JWT + bcrypt)
-- Product & order management
-- Stock control with consistency handling
-- Order status workflow
+### 🌱 En qué estoy
+Llevando proyectos de "funciona" a productos usables de verdad: puliendo UX, pagos
+y sumando full stack, con el backend como base.
 
-This project focuses on solving real problems like concurrency, data integrity and access control.
-
----
-
-Currently working on improving the frontend integration and building a complete end-to-end application.
+### 📫 Contacto
+- Email: fran99879@gmail.com
+- LinkedIn: https://www.linkedin.com/in/francisco-caslini-308716305/
